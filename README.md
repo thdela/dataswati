@@ -1,4 +1,4 @@
-# Gradio Valve Condition Predictor fro Dataswati
+# Gradio Valve Condition Predictor for Dataswati
 
 This repository contains a web application that predicts the condition of a valve (optimal or non-optimal) based on provided data. The app is built using [Gradio](https://gradio.app/) and is designed to be deployed in a Docker container.
 
